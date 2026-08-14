@@ -7,7 +7,7 @@ cask "onair" do
   desc "Menu-bar app that sets your Slack status when your camera turns on"
   homepage "https://github.com/pmbrull/OnAir"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "OnAir.app"
 
