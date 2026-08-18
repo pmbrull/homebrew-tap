@@ -1,6 +1,6 @@
 cask "onair" do
-  version "0.3.0"
-  sha256 "1c1074bbd061b5940facd2e50f68a4bb574216064fa485d49d68fa73199cdff2"
+  version "0.4.0"
+  sha256 "5d3f8796eb7e296fde5bbe05aabd8339448b24c8b70db96acfab551686456945"
 
   url "https://github.com/pmbrull/OnAir/releases/download/v#{version}/OnAir-#{version}.zip"
   name "OnAir"
